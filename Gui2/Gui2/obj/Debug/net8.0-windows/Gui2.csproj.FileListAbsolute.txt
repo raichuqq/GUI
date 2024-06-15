@@ -1,0 +1,16 @@
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\MinefieldGame.Form1.resources
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.csproj.GenerateResource.cache
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.AssemblyInfoInputs.cache
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.AssemblyInfo.cs
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.csproj.CoreCompileInputs.cache
+C:\Users\grigo\source\repos\Gui2\Gui2\bin\Debug\net8.0-windows\Gui2.exe
+C:\Users\grigo\source\repos\Gui2\Gui2\bin\Debug\net8.0-windows\Gui2.deps.json
+C:\Users\grigo\source\repos\Gui2\Gui2\bin\Debug\net8.0-windows\Gui2.runtimeconfig.json
+C:\Users\grigo\source\repos\Gui2\Gui2\bin\Debug\net8.0-windows\Gui2.dll
+C:\Users\grigo\source\repos\Gui2\Gui2\bin\Debug\net8.0-windows\Gui2.pdb
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.dll
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\refint\Gui2.dll
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.pdb
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\Gui2.genruntimeconfig.cache
+C:\Users\grigo\source\repos\Gui2\Gui2\obj\Debug\net8.0-windows\ref\Gui2.dll
